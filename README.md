@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate Computer Science student at the Institute of Engineering and Rural Technology, Prayagraj. I love building projects that solve real-world problems and contribute to open-source communities. 
+I am a dedicated Computer Science student at the Institute of Engineering and Rural Technology, Prayagraj, currently in my 4th year. My expertise lies in full-stack web development, with a strong proficiency in HTML, CSS, and JavaScript. I have substantial experience in designing and developing dynamic web applications using ReactJS for the front-end. My projects often involve the integration of RESTful APIs, leveraging modern frameworks such as Express.js and Node.js. I am passionate about solving real-world problems through code and actively contributing to open-source projects.
 
 - 📍 Uttar Pradesh, India
 - ✉️ [amanydv879587@gmail.com](mailto:amanydv879587@gmail.com)
