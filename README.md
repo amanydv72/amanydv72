@@ -74,6 +74,12 @@ I am a dedicated Computer Science student at the Institute of Engineering and Ru
 - **Open Source Contribution (Hacktoberfest):**
   - Successfully had 6 Pull Requests accepted.
   - Awarded a prize kit including T-shirts.
+
+
+<div style="display: flex; justify-content: space-evenly;">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanydv72&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanydv72&layout=compact&theme=radical" alt="Top Languages" />
+</div>
  
 ## Education
 
@@ -92,10 +98,6 @@ I am a dedicated Computer Science student at the Institute of Engineering and Ru
 
 
 
-<div style="display: flex; justify-content: space-evenly;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanydv72&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanydv72&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ## Let's Connect!
 
