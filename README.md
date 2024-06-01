@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Aman Yadav
 
+![Profile Views](https://komarev.com/ghpvc/?username=amanydv72&style=flat-square&color=blue)
+
+
 ## About Me
 
 I am a dedicated Computer Science student at the Institute of Engineering and Rural Technology, Prayagraj, currently in my 4th year. My expertise lies in full-stack web development, with a strong proficiency in HTML, CSS, and JavaScript. I have substantial experience in designing and developing dynamic web applications using ReactJS for the front-end. My projects often involve the integration of RESTful APIs, leveraging modern frameworks such as Express.js and Node.js. I am passionate about solving real-world problems through code and actively contributing to open-source projects.
@@ -87,8 +90,14 @@ I am a dedicated Computer Science student at the Institute of Engineering and Ru
   S D B G A I C MOLANAPUR JKN  
   Percentage: 90%
 
+
+
+<div style="display: flex; justify-content: space-evenly;">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanydv72&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanydv72&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ## Let's Connect!
 
 Feel free to reach out via [email](mailto:amanydv879587@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aman-yadav-34083b204/). Check out my coding profiles on [LeetCode](https://leetcode.com/u/amanydv_7/), [CodeChef](https://www.codechef.com/users/alpha_exe), and [Codeforces](https://codeforces.com/profile/amanyadav72).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanydv72&show_icons=true&theme=radical)
