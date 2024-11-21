@@ -98,6 +98,12 @@ I am a Computer Science and Engineering enthusiast with a passion for building c
  
 ## Education
 
+- **M.Tech in Computer Science and Engineering**  
+  Indraprastha Institute of Information Technology (IIIT), Delhi  
+  Aug 2024 - Present  
+  Coursework: Graduate Algorithms, Object-Oriented Programming and Design, Machine Learning, Artificial Intelligence.                                                
+  Research Focus: Exploring advanced algorithms and techniques in machine learning and artificial intelligence.
+
 - **B.Tech in Computer Science and Engineering**  
   Institute of Engineering and Rural Technology, Prayagraj  
   CGPA: 8.33  
