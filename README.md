@@ -7,7 +7,7 @@
 
 I am a Computer Science and Engineering enthusiast with a passion for building cutting-edge applications that solve real-world challenges. Currently pursuing my M.Tech in Computer Science and Engineering at IIIT Delhi, I bring extensive knowledge in Full Stack Development, solid grounding in Object-Oriented Programming and Design (OOPD), and substantial expertise in Artificial Intelligence (AI) and Machine Learning (ML). My ability to navigate and integrate these domains enables me to deliver end-to-end solutions that are efficient, scalable, and intelligent.
 
-- 📍 Uttar Pradesh, India
+- 📍 Delhi, India
 - ✉️ [amanydv879587@gmail.com](mailto:amanydv879587@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-yadav-34083b204/)
 - 💻 [LeetCode](https://leetcode.com/u/amanydv_7/)
@@ -25,6 +25,14 @@ I am a Computer Science and Engineering enthusiast with a passion for building c
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Machine Learning Techniques/Modules  
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### Developer Tools
 
@@ -47,7 +55,14 @@ I am a Computer Science and Engineering enthusiast with a passion for building c
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-## Coursework
+## M.Tech Coursework  
+
+- ![Graduate Algorithms](https://img.shields.io/badge/Graduate%20Algorithms-4CAF50?style=for-the-badge&logo=algolia&logoColor=white)  
+- ![Object-Oriented Programming and Design](https://img.shields.io/badge/Object%20Oriented%20Programming%20and%20Design-1565C0?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F57C00?style=for-the-badge&logo=pytorch&logoColor=white)  
+- ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-512DA8?style=for-the-badge&logo=python&logoColor=white)  
+
+## Btech Coursework
 
 - ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-4CAF50?style=for-the-badge&logo=algolia&logoColor=white)
 - ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-00897B?style=for-the-badge&logo=linux&logoColor=white)
