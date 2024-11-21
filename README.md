@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am a dedicated Computer Science student at the Institute of Engineering and Rural Technology, Prayagraj, currently in my 4th year. My expertise lies in full-stack web development, with a strong proficiency in HTML, CSS, and JavaScript. I have substantial experience in designing and developing dynamic web applications using ReactJS for the front-end. My projects often involve the integration of RESTful APIs, leveraging modern frameworks such as Express.js and Node.js. I am passionate about solving real-world problems through code and actively contributing to open-source projects.
+I am a Computer Science and Engineering enthusiast with a passion for building cutting-edge applications that solve real-world challenges. Currently pursuing my M.Tech in Computer Science and Engineering at IIIT Delhi, I bring extensive knowledge in Full Stack Development, solid grounding in Object-Oriented Programming and Design (OOPD), and substantial expertise in Artificial Intelligence (AI) and Machine Learning (ML). My ability to navigate and integrate these domains enables me to deliver end-to-end solutions that are efficient, scalable, and intelligent.
 
 - 📍 Uttar Pradesh, India
 - ✉️ [amanydv879587@gmail.com](mailto:amanydv879587@gmail.com)
